@@ -1,0 +1,40 @@
+<!-- ********************** maju service section tmb Start************************* -->
+<section id="majuServiceTmb" class="maju__service__tmb">
+  <div class="maju__service__tmb">
+  	<div class="maju__service">
+      <div	class="service__item">
+        <div class="service__img">
+          	<img src="https://cdn.shopify.com/s/files/1/0735/1549/files/Layer_84_2048x_f52a97c1-64e6-4023-83b7-29e799681db5.png?v=1612354584">
+        </div>
+        <div class="service__txt">
+          <h4> This is testing xt</h4>
+        </div>
+      </div>
+      <div	class="service__item">
+        <div class="service__img">
+          	<img src="https://cdn.shopify.com/s/files/1/0735/1549/files/Layer_84_2048x_f52a97c1-64e6-4023-83b7-29e799681db5.png?v=1612354584">
+        </div>
+        <div class="service__txt">
+          <h4> This is testing xt</h4>
+        </div>
+      </div>
+      <div	class="service__item">
+        <div class="service__img">
+          	<img src="https://cdn.shopify.com/s/files/1/0735/1549/files/Layer_84_2048x_f52a97c1-64e6-4023-83b7-29e799681db5.png?v=1612354584">
+        </div>
+        <div class="service__txt">
+          <h4> This is testing xt</h4>
+        </div>
+      </div>
+      <div	class="service__item">
+        <div class="service__img">
+          	<img src="https://cdn.shopify.com/s/files/1/0735/1549/files/Layer_84_2048x_f52a97c1-64e6-4023-83b7-29e799681db5.png?v=1612354584">
+        </div>
+        <div class="service__txt">
+          <h4> This is testing xt</h4>
+        </div>
+      </div>
+  	</div>
+  </div>
+</section>
+<!-- **********************maju service section tmb End************************* -->
